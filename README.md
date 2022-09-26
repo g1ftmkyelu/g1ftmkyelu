@@ -5,8 +5,9 @@
 - 💬 Talk to me about freelancing opportunities in web development and software engineering
 - 👯 I’m looking to collaborate on backend, fontend software engineering projects
 
-**Technologies I've worked with**
 
+
+**Technologies I've worked with**
 <p>
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/C.png?alt=media&token=4a609efe-23d3-4457-9cf9-53164e114225" width="50px" height="50px">
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/C%2B%2B.png?alt=media&token=707e77e1-20b2-4cea-b407-1c395f636a13" width="50px" height="50px">
