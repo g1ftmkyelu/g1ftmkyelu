@@ -9,15 +9,13 @@
 
 **Technologies I've worked with**
 <p>
-<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/C.png?alt=media&token=4a609efe-23d3-4457-9cf9-53164e114225" width="50px" height="50px" class="margin-right:89px">
+<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/C.png?alt=media&token=4a609efe-23d3-4457-9cf9-53164e114225" width="50px" height="50px">
 
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/C%2B%2B.png?alt=media&token=707e77e1-20b2-4cea-b407-1c395f636a13" width="50px" height="50px">
 
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/C%23.png?alt=media&token=8b91e00d-6f49-4464-bba9-8cc00a2de88e" width="50px" height="50px">
 
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/python.png?alt=media&token=8f60c24b-895a-4c16-a8a3-be8c155fc475" width="50px" height="50px">
-
-<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/Ruby.png?alt=media&token=63f6741d-2215-4cdb-9c0d-67a07fb76cd7" width="50px" height="50px">
 
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/html.png?alt=media&token=e015eca8-1327-479d-b5ad-b61851eb8796" width="50px" height="50px">
   
@@ -27,7 +25,7 @@
   
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/php.png?alt=media&token=09b1453e-9c3c-48f3-95c0-e0e52f833618" width="50px" height="50px">
   
-<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/typescript.png?alt=media&token=c597f04d-8603-4837-b613-63db49d20920" width="50px" height="50px">
+<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/typescript.png?alt=media&token=c597f04d-8603-4837-b613-63db49d20920" width="57px" height="50px">
   
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/angular.png?alt=media&token=3c45049d-182e-4988-aa49-3420b7fef96c" width="47px" height="50px">
   
@@ -37,7 +35,7 @@
   
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/express.png?alt=media&token=7884d10f-6639-4283-8818-5a7c93e55083" width="50px" height="50px">
   
-<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/laravel.png?alt=media&token=fb402ce1-2448-497c-b1c5-54e21b58bae5" width="37px" height="50px">
+<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/laravel.png?alt=media&token=fb402ce1-2448-497c-b1c5-54e21b58bae5" width="50px" height="50px">
   
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/codeigniter.png?alt=media&token=3d6a34df-718b-4dc9-b708-446a4c8e8345" width="40px" height="50px">
   
@@ -58,8 +56,6 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/firebase.png?alt=media&token=4378c08c-d061-4d49-9045-6835209a87fd" width="50px" height="50px">
   
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/NGNIX.png?alt=media&token=ed9c5d8c-b998-4101-bb95-f98e867d17de" width="57px" height="50px">
-  
-<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/Azure.png?alt=media&token=f739ad9e-93a2-4e3f-ab48-cec352fd30a9" width="50px" height="50px">
-  
+
 </p>
 <!-- wi*quL3fcV -->
