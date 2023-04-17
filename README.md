@@ -43,9 +43,9 @@
   
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/mysql.png?alt=media&token=6459165b-8df4-4588-8e9a-d7feb69d67b0" width="87px" height="55px">
   
-<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/sqlite.png?alt=media&token=f3c59610-e4aa-4100-b4c4-bdbb9d431c44" width="70px" height="50px">
+<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/sqlite.png?alt=media&token=f3c59610-e4aa-4100-b4c4-bdbb9d431c44" width="85px" height="50px">
   
-<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/Mongo.png?alt=media&token=35a2d3ad-005e-4a7b-8097-00a800e37a83" width="70px" height="50px">
+<img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/Mongo.png?alt=media&token=35a2d3ad-005e-4a7b-8097-00a800e37a83" width="90px" height="60px">
   
 <img src="https://firebasestorage.googleapis.com/v0/b/case-file-management-system.appspot.com/o/couchDB.png?alt=media&token=8b1b6866-3e2c-436a-aca1-c028eaee95c7" width="50px" height="50px">
   
