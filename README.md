@@ -44,24 +44,3 @@ I'm passionate about crafting efficient, scalable, and user-friendly web applica
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-
-
-## 🔝 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1ftmkyelu&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [Gift Mkyelu](https://www.linkedin.com/in/gift-mkyelu)
-- 🌐 Portfolio: [giftmkyelu.com](https://www.giftmkyelu.com)
-- 📧 Email: gift.mkyelu@example.com
-- 🐦 Twitter: [@g1ftmkyelu](https://twitter.com/g1ftmkyelu)
-
----
-
-⭐️ From [g1ftmkyelu](https://github.com/g1ftmkyelu) | [Buy me a coffee ☕](https://www.buymeacoffee.com/g1ftmkyelu)
